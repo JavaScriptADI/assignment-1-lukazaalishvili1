@@ -6,4 +6,4 @@ console.log(4 * 6 * 2);
 // 3
 console.log("Hello luka");
 // 4
-console.log("luka" + " " + "zaalishvili");
+console.log("luka" + "zaalishvili");
